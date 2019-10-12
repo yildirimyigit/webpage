@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Yiğit Yıldırım
+name: Yigit Yıldırım
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate @Boğaziçi University
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Boğaziçi University
-  url: "boun.edu.tr"
+- name: Bogaziçi University
+  url: "http://www.boun.edu.tr"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning and its applications in robotics.
