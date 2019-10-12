@@ -22,7 +22,7 @@ subtitle = ""
   
 [[feature]]
   icon = "robot"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Roboticist"
   description = "Robot Enthusiast"
 
