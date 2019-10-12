@@ -18,8 +18,14 @@ subtitle = ""
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-  description = "10+ years or experience"
+  description = "10+ years of experience"
   
+[[feature]]
+  icon = "robot"
+  icon_pack = "fab"
+  name = "Roboticist"
+  description = "Robot Enthusiast"
+
 #[[feature]]
 #  icon = "paw"
 #  icon_pack = "fab"
