@@ -34,7 +34,7 @@ subtitle = ""
   
 [[feature]]
   icon = "futbol"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Football"
   description = "Football Lover"
 
