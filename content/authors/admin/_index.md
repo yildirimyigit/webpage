@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Yiğit Yıldırım is a PhD candidate of Computer Engineering at Boğaziçi University.
+I am a PhD candidate of Computer Engineering at Boğaziçi University.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Currently, I am working on the applications of several Deep Learning and Inverse Reinforcement Learning algorithms on different robotic tasks. More information to come in coming days.
